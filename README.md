@@ -6,6 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developernagk)](https://github.com/developernagk)
 
-# [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=developernagk)](https://github.com/developernagk)
-
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=9baec8&height=100&section=footer)
