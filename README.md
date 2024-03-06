@@ -4,4 +4,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=developernagk&repo=STIS)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developernagk)](https://github.com/developernagk)
+
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=9baec8&height=100&section=footer)
