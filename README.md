@@ -2,4 +2,4 @@
 
 # [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developernagk&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developernagk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developernagk&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
